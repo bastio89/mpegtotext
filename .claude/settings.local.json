@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import tkinter\")",
+      "Bash(python3 -m pip list)",
+      "Bash(pip3 list:*)",
+      "Bash(ffmpeg -version)",
+      "Bash(chmod +x \"/Users/sebastianoczachowski/Desktop/mpeg to text/run.sh\")"
+    ]
+  }
+}
